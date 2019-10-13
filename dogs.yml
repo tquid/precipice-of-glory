@@ -1,0 +1,48 @@
+---
+player: Anne
+name: Lucius Valerius Nerva
+stats:
+  Body: 6d6
+  Mind: 2d6
+  Soul: 3d6
+  Spirit: 4d6
+traits:
+  Former slave: 2d4
+  Not from around here: 1d6
+  Cutthroat: 2d8
+  Run out of town: 1d4
+  A head above: 2d6
+  Pessimist: 1d6
+  Combat hopak: 2d10
+relationships:
+  Caeus, my bastard: 1d8
+  Valerius, master's kin: 1d4
+  Follower of Mithras: 1d8
+  Comrades in arms: 2d6
+equipment:
+  Gladius: 1d6
+  Light armor: 1d6
+  Spatha: 1d8
+
+---
+player: Juniper
+name: Sextus Marinus Calvus
+stats:
+  Body: 5d6
+  Mind: 3d6
+  Soul: 2d6
+  Spirit: 3d6
+traits:
+  Wounded leg: 1d4
+  It is indifferent: 2d6
+  Harden your heart: 2d8
+  Siege-breaker: 3d10
+relationships:
+  _: 3d6
+  _: 1d8
+powers:
+  Immunes: 3d6
+  Citizen of Rome: 1d8
+equipment:
+  Light armor:
+  Letter of assignment:
