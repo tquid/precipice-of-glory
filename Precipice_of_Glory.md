@@ -143,3 +143,5 @@ Rules hack (from https://forum.rpg.net/index.php?threads/cortex-prime-trait-hope
 >
 
 Magic: https://vsca.blog/2018/10/19/magicians-in-the-soft-horizon/
+
+Use a "bring down the pain" conflict system: one roll to decide a conflict, but spend something to get fine-grained resolution.
