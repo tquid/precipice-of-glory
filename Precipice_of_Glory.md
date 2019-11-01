@@ -2,15 +2,26 @@
 Seneca the Younger reputedly loaned the Britons 20M sesterces(!!) and got tough when he called in the loan all at once. What a fucking douchebag. (Cassius Dio, Roman History, 62.2)
 
 You're in a Roman legion, in Britain, about 50 AD. You're supposed to repress rebellion amongst the restive natives. You have not enough troops, haven't been paid in a while, and also it seems like the horrifying ancient gods these heathens worship are real. The last Praetor was found turned inside out. (A horror game. Being in the ancient world means no cell phones. Also, politics.)
+
 # Rules Mods
 Pushing: you can add a die to your pool, which then steps up your stress after the roll. Any spoilers step up stress as well.
+
 # Attributes
 Physical
 Social (Rank?)
 Mental
 Uncanny - pegged at 1d4
+
+# Values (with trait statements)
+List of 8 or so, with about half of those actually assigned for any given PC--thus, culture clash is real, but resolvable.
+
+# Relationships
+
+My Culture is a mandatory one. Probably.
+
 # Skills (with Specialties)
-(Blatantly stolen from Mythikal by “angille”)
+**NOT USED** but perhaps useful for reference for now. List in source, commented out.
+<!--
 Bluff: Deceiving or conning somebody, feinting in combat, spinning yarns.
 Cast: Weaving spells, channelling power, performing rituals, using mystical devices.
 Command: Directly getting what you want from others, without resorting to Persuadey or fear.
@@ -31,7 +42,12 @@ Tinker: Crafting or breaking things, like buildings, weapons, tools, locks, magi
 Travel: Moving through and dealing with surviving the outdoors, the open sea, or urban environments.
 Treat: Taking care of people. First aid, treatment of injury and disease, but also counselling.
 
-# Careers/Backgrounds
+https://en.m.wikipedia.org/wiki/List_of_Roman_army_unit_types
+-->
+
+# Distinctions
+
+## Careers/Backgrounds
 Which of these are specialized skills, and which are effectively privileged ranks?
 Most of these are also _immunes_, exempted from the dog-work duties.
 * **Auxila - A foreigner, in auxiliary roles such as archer units or scouts.**
@@ -50,55 +66,50 @@ Most of these are also _immunes_, exempted from the dog-work duties.
 * **Venator – A hunter (a type of immunes).**
 * **Vexillarius – Bearer of a vexillum (standard).**
 
-
-https://en.m.wikipedia.org/wiki/List_of_Roman_army_unit_types
-
-# Distinctions
-
-## Auxila
+### Auxila
 
 You’re a non-Roman attached to a military unit. You could be from nearly anywhere in the world.
 
 - [ ] Common Touch: Double Empathize when dealing with ordinary, non-Roman peoples.
 - [ ] Flexible Tactics: 
 
-## Briton
+### Briton
 
-## Epicurean
+### Epicurean
 
 Your philosophy teaches you to enjoy pleasure and avoid pain, which is only natural. However, you’re not, as the Stoics would suggest, a libertine--some pleasures are to be sought more than others.
 
 - [ ] Atoms and the Void: Take a Plot Point when you insist in company that the gods don’t exist and/or that everything that occurs is because of little things bumping against each other.
 
-## Learned
+### Learned
 
 Your background allowed you access to tutors and books. You are literate (as most soldiers are not).
 Know, Bluff, Notice
 
 - [ ] I Read about That Once: Spend a Plot Point to create a d8 Asset reflecting your knowledge of the situation at hand.
 
-## Seasoned Legionnaire
+### Legionnaire
 
-Notice, Melee, Command
 
-## Freedman
+### Freedman
 
 You were a slave, from birth, from being captured in war, or as punishment for a crime. You were manumitted or bought your freedom.
 Empathize, Persuade, Endure
 
 - [ ] Begging your pardon, I’m just an ignorant fool, but: When you seem servile and harmless, double Persuade.
 
-## Citizen of Rome
+### Citizen of Rome
 You have that most prized of possessions, Roman citizenship. The laws are less harsh on you (you are unlikely to be tortured) and you can vote. You are also exempt from many taxes.
 - [ ] “Civis Romanus sum!”: when facing problems with Roman authorities, step up or double Persuade.
 - [ ] Soothing rhetoric: When you spend a plot point to create a social or political asset, also step back a related complication.
-## Seer
+
+### Seer
 Uncanny, Know, Empathize
 Visions come to you, and you see spirits or hear them whispering in your ear. Such experiences leave their mark--take an appropriate Trauma at the start of the game.
 Visions: Take d6 Mental Stress, or step it up. The GM will give you a vision, which you keep as a d6 Asset.
 Unsettling Gaze: when you fix someone with your eerie visage, spend 1 Plot Point to step up Uncanny and use it in place of Menace.
 
-## Stoic
+### Stoic
 
 Endure, Empathize, Treat
 “Some things are within our power, while others are not. Within our power are opinion, motivation, desire, aversion, and, in a word, whatever is of our own doing; not within our power are our body, our property, reputation, office, and in a word, whatever is not of our own doing.”
@@ -107,7 +118,7 @@ You have taken Stoic philosophy to heart, strengthening your resolve and inspiri
 - [ ] “It’s nothing to me”: spend a Plot Point to step back any Mental Stress
 - [ ] The Consolations of Philosophy: when you have time to talk with someone, double Treat to remove Mental Stress.
 
-## Miner
+### Miner
 
 Notice, Move, Travel (underground)
 You have done time in the mines. This is one of the deadliest and harshest jobs, done almost exclusively by slaves. Your alertness has kept you from cave-ins and the lash, you can squeeze into ridiculously tiny crevices, and you have a passing knowledge of mineralogy.
@@ -126,6 +137,9 @@ Wounds for physical
 Create the various tribes and their interactions. However the GM secretly decides which ones are corrupting themselves with the occult/fae/whatever it is.
 
 # Notes
+
+## Current system thinking
+Use Ranked Distinctions as Careers, Backgrounds, Personality, etc.; this takes care of social class as that can be a feature of the appropriate ranked Distinction.
 
 Perhaps social could be encapsulated in Rank, physical split between military specializations - Speculatori and Alaris, for example
 
