@@ -123,14 +123,17 @@ You have taken Stoic philosophy to heart, strengthening your resolve and inspiri
 Notice, Move, Travel (underground)
 You have done time in the mines. This is one of the deadliest and harshest jobs, done almost exclusively by slaves. Your alertness has kept you from cave-ins and the lash, you can squeeze into ridiculously tiny crevices, and you have a passing knowledge of mineralogy.
 When trying to get passage through a seemingly impossible space, 
-Campaign veteran
+
+### Campaign veteran
 You’ve been on the march so much, a soft bed seems strange.
 Camp Life: When making camp in the wild or a putting up a makeshift shelter, step up or double Survive for the Action.
 On the March: When travelling, double Endure.
 Highlighted Skills: Labour, Shoot, Survive
-Stress Tracks
+
+## Stress Tracks
 Composure for mental/spiritual stuff
 Wounds for physical
+Possibly a standard SFX to step back Resolve to avoid Stress? Check rules on 
 
 # Setting Generation
 
