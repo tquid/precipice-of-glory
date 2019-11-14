@@ -1,23 +1,29 @@
 # Miscellaneous Notes
 Seneca the Younger reputedly loaned the Britons 20M sesterces(!!) and got tough when he called in the loan all at once. What a fucking douchebag. (Cassius Dio, Roman History, 62.2)
 
-You're in a Roman legion, in Britain, about 50 AD. You're supposed to repress rebellion amongst the restive natives. You have not enough troops, haven't been paid in a while, and also it seems like the horrifying ancient gods these heathens worship are real. The last Praetor was found turned inside out. (A horror game. Being in the ancient world means no cell phones. Also, politics.)
+You're in a Roman legion, in Britain, about 100 AD. You're supposed to repress rebellion amongst the restive natives. You have not enough troops, haven't been paid in a while, and also it seems like the horrifying ancient gods these heathens worship are real. The last Praetor was found turned inside out. (A horror game. Being in the ancient world means no cell phones. Also, politics.)
 
 # Rules Mods
 Pushing: you can add a die to your pool, which then steps up your stress after the roll. Any spoilers step up stress as well.
 
-# Attributes
+## Attributes
 Physical
 Social (Rank?)
 Mental
 Uncanny - pegged at 1d4
 
-# Values (with trait statements)
+## Values (with trait statements)
 List of 8 or so, with about half of those actually assigned for any given PC--thus, culture clash is real, but resolvable.
 
-# Relationships
+## Relationships
 
 My Culture is a mandatory one. Probably.
+
+## Stress Tracks
+Composure for mental/spiritual stuff
+Wounds for physical
+Possibly a standard SFX to step back Resolve to avoid Stress? Check rules on 
+
 
 # Skills (with Specialties)
 **NOT USED** but perhaps useful for reference for now. List in source, commented out.
@@ -104,14 +110,11 @@ You have that most prized of possessions, Roman citizenship. The laws are less h
 - [ ] Soothing rhetoric: When you spend a plot point to create a social or political asset, also step back a related complication.
 
 ### Seer
-Uncanny, Know, Empathize
 Visions come to you, and you see spirits or hear them whispering in your ear. Such experiences leave their mark--take an appropriate Trauma at the start of the game.
-Visions: Take d6 Mental Stress, or step it up. The GM will give you a vision, which you keep as a d6 Asset.
+Visions: Take d6 Composure Stress, or step it up. The GM will give you a vision, which you keep as a d6 Asset.
 Unsettling Gaze: when you fix someone with your eerie visage, spend 1 Plot Point to step up Uncanny and use it in place of Menace.
 
 ### Stoic
-
-Endure, Empathize, Treat
 “Some things are within our power, while others are not. Within our power are opinion, motivation, desire, aversion, and, in a word, whatever is of our own doing; not within our power are our body, our property, reputation, office, and in a word, whatever is not of our own doing.”
 You have taken Stoic philosophy to heart, strengthening your resolve and inspiring you to serve the cosmopolis, treating all humanity as brothers and sisters.
 
@@ -130,10 +133,6 @@ Camp Life: When making camp in the wild or a putting up a makeshift shelter, ste
 On the March: When travelling, double Endure.
 Highlighted Skills: Labour, Shoot, Survive
 
-## Stress Tracks
-Composure for mental/spiritual stuff
-Wounds for physical
-Possibly a standard SFX to step back Resolve to avoid Stress? Check rules on 
 
 # Setting Generation
 
